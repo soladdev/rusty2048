@@ -16,7 +16,7 @@
     "web",
     "pixi.js"
   ],
-  "author": "davismiler",
+  "author": "soladdev",
   "license": "MIT",
   "devDependencies": {
     "sharp": "^0.34.3",

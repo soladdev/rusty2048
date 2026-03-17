@@ -18,11 +18,11 @@
     "desktop",
     "tauri"
   ],
-  "author": "davismiler",
+  "author": "soladdev",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davismiler/rusty2048.git"
+    "url": "https://github.com/soladdev/rusty2048.git"
   },
   "engines": {
     "node": ">=20.0.0"

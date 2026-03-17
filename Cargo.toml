@@ -11,10 +11,10 @@ resolver = "2"
 [workspace.package]
 version = "0.1.6"
 edition = "2021"
-authors = ["davismiler"]
+authors = ["soladdev"]
 description = "A modern 2048 game implementation in Rust"
 license = "MIT"
-repository = "https://github.com/davismiler/rusty2048"
+repository = "https://github.com/soladdev/rusty2048"
 
 [workspace.dependencies]
 # Core dependencies

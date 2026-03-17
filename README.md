@@ -4,12 +4,12 @@
 
 **A high-performance, cross-platform 2048 game implementation built with Rust**
 
-[![CI](https://github.com/davismiler/rusty2048/workflows/CI/badge.svg)](https://github.com/davismiler/rusty2048/actions?query=workflow%3ACI)
-[![Quick Check](https://github.com/davismiler/rusty2048/workflows/Quick%20Check/badge.svg)](https://github.com/davismiler/rusty2048/workflows/Quick%20Check/badge.svg)
+[![CI](https://github.com/soladdev/rusty2048/workflows/CI/badge.svg)](https://github.com/soladdev/rusty2048/actions?query=workflow%3ACI)
+[![Quick Check](https://github.com/soladdev/rusty2048/workflows/Quick%20Check/badge.svg)](https://github.com/soladdev/rusty2048/workflows/Quick%20Check/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg)](https://www.rust-lang.org/)
 
-[🌐 Play Online](https://rusty2048.vercel.app) • [📖 Documentation](docs/) • [🐛 Report Bug](https://github.com/davismiler/rusty2048/issues) • [💡 Request Feature](https://github.com/davismiler/rusty2048/issues)
+[🌐 Play Online](https://rusty2048.vercel.app) • [📖 Documentation](docs/) • [🐛 Report Bug](https://github.com/soladdev/rusty2048/issues) • [💡 Request Feature](https://github.com/soladdev/rusty2048/issues)
 
 </div>
 
@@ -95,11 +95,11 @@ Visit **[rusty2048.vercel.app](https://rusty2048.vercel.app)** to play instantly
 
 **One-line installation:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/davismiler/rusty2048/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/soladdev/rusty2048/main/scripts/install.sh | bash
 ```
 
 **Or download pre-built binaries:**
-- Visit [GitHub Releases](https://github.com/davismiler/rusty2048/releases)
+- Visit [GitHub Releases](https://github.com/soladdev/rusty2048/releases)
 - Download for your platform (Linux, macOS, Windows)
 - Extract and run the binary
 
@@ -111,15 +111,15 @@ curl -fsSL https://raw.githubusercontent.com/davismiler/rusty2048/main/scripts/i
 
 #### Option 1: Installation Script (Recommended)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/davismiler/rusty2048/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/soladdev/rusty2048/main/scripts/install.sh | bash
 ```
 
 #### Option 2: Pre-compiled Binaries
-Download from [GitHub Releases](https://github.com/davismiler/rusty2048/releases) for your platform.
+Download from [GitHub Releases](https://github.com/soladdev/rusty2048/releases) for your platform.
 
 #### Option 3: Build from Source
 ```bash
-git clone https://github.com/davismiler/rusty2048.git
+git clone https://github.com/soladdev/rusty2048.git
 cd rusty2048
 cargo build --release -p rusty2048-cli
 ```
@@ -130,7 +130,7 @@ cargo build --release -p rusty2048-cli
 
 **Build Locally:**
 ```bash
-git clone https://github.com/davismiler/rusty2048.git
+git clone https://github.com/soladdev/rusty2048.git
 cd rusty2048/web
 ./build.sh
 # Serve the dist folder with any static file server
@@ -140,7 +140,7 @@ cd rusty2048/web
 
 **Build from Source:**
 ```bash
-git clone https://github.com/davismiler/rusty2048.git
+git clone https://github.com/soladdev/rusty2048.git
 cd rusty2048/desktop
 cargo tauri build
 ```
@@ -303,11 +303,9 @@ For more details, please read our [Contributing Guidelines](CONTRIBUTING.md) (if
 
 ## 📞 Contact
 
-**Project Maintainer**: davismiler
+**Project Maintainer**: soladdev
 
-- **GitHub**: [@davismiler](https://github.com/davismiler)
-- **Telegram**: [@davismiler](https://t.me/davismiler)
-- **X (Twitter)**: [@davismilerdev](https://x.com/davismilerdev)
+- **GitHub**: [@soladdev](https://github.com/soladdev)
 
 ---
 

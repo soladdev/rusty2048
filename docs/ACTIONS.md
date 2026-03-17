@@ -63,8 +63,8 @@ To avoid GTK dependency issues in CI, we've implemented a module separation stra
 You can add the following badges to README.md to display CI status:
 
 ```markdown
-[![Quick Check](https://github.com/{username}/rusty2048/workflows/Quick%20Check/badge.svg)](https://github.com/{username}/rusty2048/actions?query=workflow%3A%22Quick+Check%22)
-[![CI](https://github.com/{username}/rusty2048/workflows/CI/badge.svg)](https://github.com/{username}/rusty2048/actions?query=workflow%3ACI)
+[![Quick Check](https://github.com/soladdev/rusty2048/workflows/Quick%20Check/badge.svg)](https://github.com/soladdev/rusty2048/actions?query=workflow%3A%22Quick+Check%22)
+[![CI](https://github.com/soladdev/rusty2048/workflows/CI/badge.svg)](https://github.com/soladdev/rusty2048/actions?query=workflow%3ACI)
 ```
 
 ## Local Testing
